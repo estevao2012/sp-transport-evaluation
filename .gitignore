@@ -1,0 +1,11 @@
+# Ignorar tudo por padrão
+*
+
+# Permitir apenas a pasta trabalho/camadas/
+!trabalho/
+!trabalho/camadas/
+!trabalho/camadas/**
+
+# Permitir arquivos de configuração do git
+!.gitignore
+!README.md
